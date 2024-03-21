@@ -1,0 +1,30 @@
+{
+  "name": "optiovoluptatem",
+  "version": "1.0.0",
+  "description": "Pipe an array of streams to a single promise. Captures errors on any of the streams.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GisselleLuettgen/optiovoluptatem.git"
+  },
+  "keywords": [
+    "et",
+    "node",
+    "omnis",
+    "bluebird",
+    "nulla"
+  ],
+  "author": "MarcellaConnelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GisselleLuettgen/optiovoluptatem.git/issues"
+  },
+  "homepage": "https://github.com/GisselleLuettgen/optiovoluptatem.git",
+  "dependencies": {
+    "bluebird": "^2.9.13",
+    "stream-to-promise": "^1.0.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
+}
